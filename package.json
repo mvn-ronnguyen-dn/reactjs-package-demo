@@ -1,11 +1,12 @@
 {
   "name": "reactjs-package-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "source": "src/index.js",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
+  "license": "MIT",
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch"
